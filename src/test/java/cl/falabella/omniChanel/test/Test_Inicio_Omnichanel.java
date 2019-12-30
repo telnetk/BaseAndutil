@@ -54,9 +54,7 @@ public class Test_Inicio_Omnichanel {
         util.scroll(driver);
         home.masProductos();
         home.ProductosSecundarios();
-        //page.esperaCargaFalabellaOmnichanel();
-        //util.scrollUp(driver);
-        //home.TransferenciasTrxTerceros();
+
 
     }
     @Test public void Test_MisPOrductos(){
